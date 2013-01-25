@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 428160212
+Receiving System Product I.D.: 428160212
+File Name                    : 428160212.igs
+Sending System               : Pro/ENGINEER by Parametric Technology Corporation
+Preprocessor Version         : 2003451
+File Creation Date           : 070710.104829
+Model Creation Date          : 070710.104829
+Units                        : MM
+Model Space Scale            : 1
+Author                       : gga
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               2
+  Highest number of significant digits:                     13
+  Average number of significant digits:                4.17458
+  Maximum distance to origin:                          31.8012
+  Minimum distance to origin:                         0.838539
+  Effective number of significant digits:              12.9771
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                             76        76
+110  Line                                           938       938
+120  Surface of revolution                           42        42
+124  Transformation matrix                           76        76
+128  Rational B-spline surface                      297       297
+186  Manifold Solid B-rep Object                      1         1
+314  Color definition                                 2         2
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                    352       352
+510  Face entity                                    339       339
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Saturday, January 19, 2013 23:22:21
+Finish time: Saturday, January 19, 2013 23:22:32
+Processing time: 0 days, 00 hours, 00 mins, 11 secs
