@@ -1,0 +1,2 @@
+Serial=RX,TX
+USB=5V,D_N,D_P,GND

@@ -1,0 +1,22 @@
+
+--------------------
+design review points:
+--------------------
+
+- "USB_OVCR#" net was deleted (XTX.SchDoc). it's an overcurrent detect input for USB.
+    we don't have any overcurrent detection on our board though, or is there
+    something you wanted to do with it?
+    RAND: I think we should look into pulling this high with a 47k resistor.
+
+----------------------
+I will address after design review:
+----------------------
+
+1. fix Design Rule check warnings - off grid pins
+
+3. add ground stiching vias.
+
+4. Clean up and arrange top and bottom silkscreens.
+
+5. Get part numbers for every part we are using
+

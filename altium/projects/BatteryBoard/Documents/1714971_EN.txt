@@ -1,0 +1,97 @@
+Designation:
+MKDS 5/ 2-9,5
+
+Short description:
+
+
+Long description:
+PC terminal block, Nominal current: 32 A, Nom.
+voltage: 690 V, Pitch: 9.52 mm, Number of
+positions: 2, Type of connection: Screw
+connection, Assembly: Soldering, Conductor/PCB
+connection direction: 0 °, Color: green, The
+article can be aligned to create different
+nos. of positions!
+
+Technical data:
+
+Dimensions / positions:
+Length:                                   19.05 mm
+Height:                                    21.5 mm
+Width:                                     12.5 mm
+Pitch:                                     9.52 mm
+Dimension a:                               9.52 mm
+Number of positions:                             2
+Pin dimensions:                       0,9 x 0,9 mm
+Hole diameter:                              1.3 mm
+Screw thread:                                   M3
+Tightening torque, min:                     0.5 Nm
+Tightening torque max:                      0.6 Nm
+
+Technical data:
+Insulating material group:                       I
+Rated surge voltage (III/3):                  6 kV
+Rated surge voltage (III/3):                  6 kV
+Rated surge voltage (III/2):                  6 kV
+Rated voltage (III/2):                      1000 V
+Rated voltage (III/2):                      1000 V
+Connection in acc. with standard:           EN-VDE
+Nominal current IN:                           32 A
+Nominal voltage UN:                          690 V
+Nominal cross section:                      4 mm^2
+Maximum load current:
+         32 A (with 6 mm2 conductor cross section)
+Insulating material:                            PA
+Inflammability class acc. to UL 94:             V0
+Internal cylindrical gage:                      A4
+Stripping length:                             8 mm
+Nominal voltage, UL/CUL Use Group B:         300 V
+Conductor cross section solid min.:       0.2 mm^2
+Conductor cross section solid max.:         6 mm^2
+Conductor cross section stranded min.:    0.2 mm^2
+Conductor cross section stranded max.:      4 mm^2
+Conductor cross section stranded, with ferrule
+without plastic sleeve min.:             0.25 mm^2
+Nominal current, UL/CUL Use Group D:           5 A
+
+Connection data:
+Conductor cross section stranded, with ferrule
+with plastic sleeve max.:                   4 mm^2
+Conductor cross section AWG/kcmil min.:         24
+Conductor cross section AWG/kcmil max:          10
+2 conductors with same cross section, solid min.:
+                                          0.2 mm^2
+2 conductors with same cross section, solid max.:
+                                          1.5 mm^2
+2 conductors with same cross section, stranded
+min.:                                     0.2 mm^2
+2 conductors with same cross section, stranded
+max.:                                     1.5 mm^2
+2 conductors with same cross section, stranded,
+ferrules without plastic sleeve, min.:   0.25 mm^2
+2 conductors with same cross section, stranded,
+ferrules without plastic sleeve, max.:   0.75 mm^2
+2 conductors with same cross section, stranded,
+TWIN ferrules with plastic sleeve, min.:  0.5 mm^2
+2 conductors with same cross section, stranded,
+TWIN ferrules with plastic sleeve, max.:  2.5 mm^2
+2 conductors with same cross section, stranded
+min.:                                     0.2 mm^2
+2 conductors with same cross section, stranded
+max.:                                     1.5 mm^2
+2 conductors with same cross section, stranded,
+ferrules without plastic sleeve, min.:   0.25 mm^2
+2 conductors with same cross section, stranded,
+ferrules without plastic sleeve, max.:   0.75 mm^2
+2 conductors with same cross section, stranded,
+TWIN ferrules with plastic sleeve, min.:  0.5 mm^2
+2 conductors with same cross section, stranded,
+TWIN ferrules with plastic sleeve, max.:  2.5 mm^2
+Minimum AWG according to UL/CUL:                30
+Maximum AWG according to UL/CUL:                10
+Maximum AWG according to UL/CUL:                10
+
+Order data:
+Manufacturer:                      Phoenix Contact
+Type:                                MKDS 5/ 2-9,5
+Order number:                           17 14 97 1
