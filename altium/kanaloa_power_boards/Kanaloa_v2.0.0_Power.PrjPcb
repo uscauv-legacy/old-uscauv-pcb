@@ -223,6 +223,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Power\Design Rule Check - Kanaloa_v2.0.html
+DItemRevisionGUID=
+
+[GeneratedDocument2]
 DocumentPath=Kanaloa_v2.0.0_Power.PcbDoc.htm
 DItemRevisionGUID=
 
