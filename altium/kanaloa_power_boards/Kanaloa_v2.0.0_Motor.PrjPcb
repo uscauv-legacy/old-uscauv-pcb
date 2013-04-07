@@ -179,74 +179,82 @@ DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Design Rule Check - Kanalo
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.EXTREP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.BOM
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBS
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GKO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP1
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP2
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPB
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPT
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTS
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Kanaloa_v2.0.0_Motor.PCB3D
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Kanaloa_v2.0.0_Motor.PcbDoc.htm
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.REP
+DocumentPath=Kanaloa_v2.0.0_Motor.PCB3D
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Kanaloa_v2.0.0_Motor.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
 DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.RUL
 DItemRevisionGUID=
 
@@ -667,7 +675,7 @@ Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TL
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Microsoft XPS Document Writer
+TargetPrinter=Brother HL-4570CDW series
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=1
 OutputType1=Script
 OutputName1=Script Output
@@ -679,6 +687,8 @@ OutputName2=Simple BOM
 OutputDocumentPath2=
 OutputVariantName2=[No Variations]
 OutputDefault2=0
+Configuration2_Name1=OutputConfigurationParameter1
+Configuration2_Item1=Record=SimpleBOMView|SimpleBOMMode=0
 OutputType3=SinglePinNetReporter
 OutputName3=Report Single Pin Nets
 OutputDocumentPath3=
@@ -692,6 +702,16 @@ OutputDocumentPath4=
 OutputVariantName4=[No Variations]
 OutputDefault4=0
 PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+Configuration4_Name1=Filter
+Configuration4_Item1=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
+Configuration4_Name2=General
+Configuration4_Item2=OpenExported=False|AddToProject=False|ForceFit=False|NotFitted=False|Database=False|IncludePCBData=True|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1083|FormHeight=641|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>
+Configuration4_Name3=GroupOrder
+Configuration4_Item3=Comment=True|Footprint=True
+Configuration4_Name4=SortOrder
+Configuration4_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration4_Name5=VisibleOrder
+Configuration4_Item5=Comment=100|Description=100|Designator=100|Footprint=100|LibRef=100|Quantity=100
 OutputType5=ComponentCrossReference
 OutputName5=Component Cross Reference Report
 OutputDocumentPath5=
