@@ -187,75 +187,91 @@ DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.CSV
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.EXTREP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBS
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GKO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP1
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP2
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPB
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPT
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTS
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Kanaloa_v2.0.0_Motor.PCB3D
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Kanaloa_v2.0.0_Motor.PcbDoc.htm
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.REP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Kanaloa_v2.0.0_Motor.PCB3D
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Kanaloa_v2.0.0_Motor.PcbDoc.htm
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Motor\Kanaloa_v2.0.0_Motor.TXT
 DItemRevisionGUID=
 
 [PCBConfiguration1]
@@ -615,7 +631,7 @@ OutputName6=Drill Drawing/Guides
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.57|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.49|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PaperKind=Letter|PrintScaleMode=1
 Configuration6_Name1=OutputConfigurationParameter1
 Configuration6_Item1=PrintArea=DesignExtent|PrintAreaLowerLeftCornerX=0|PrintAreaLowerLeftCornerY=0|PrintAreaUpperRightCornerX=0|PrintAreaUpperRightCornerY=0|Record=PcbPrintView
 Configuration6_Name2=OutputConfigurationParameter2
