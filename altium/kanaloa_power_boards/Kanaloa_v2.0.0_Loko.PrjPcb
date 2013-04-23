@@ -206,79 +206,139 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document12]
+DocumentPath=CAMtastic1.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document13]
+DocumentPath=CAMtastic3.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document14]
+DocumentPath=CAMtastic5.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Design Rule Check - Kanaloa_v2.0.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.DRL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko-BoardEdgeRout.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.DRR
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.DRL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.EXTREP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBS
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GD1
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GP1
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GP2
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTO
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTS
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.LDP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.REP
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.RUL
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument19]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.REP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument22]
 DocumentPath=Project Outputs for Kanaloa_v2.0.0_Loko\Kanaloa_v2.0.0_Loko.TXT
 DItemRevisionGUID=
 
@@ -632,7 +692,7 @@ OutputDocumentPath2=
 OutputVariantName2=
 OutputDefault2=0
 Configuration2_Name1=OutputConfigurationParameter1
-Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=True|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
+Configuration2_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=True|GenerateDrilledSlotsG85=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes
 OutputType3=Test Points
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -752,7 +812,7 @@ OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16842754~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False
+Configuration9_Item1=AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973834~1,16777217~1,16842753~1,16842754~1,16842751~1,16973835~1,16973831~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=True|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
