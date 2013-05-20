@@ -174,6 +174,22 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 
+[Document10]
+DocumentPath=Kanaloa_v2.0.0_Motor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Kanaloa_v2.0.0_GPIO\Kanaloa_v2.0.0_GPIO_b-BoardEdgeRout.TXT
 DItemRevisionGUID=
